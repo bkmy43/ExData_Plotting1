@@ -1,4 +1,4 @@
-# plot1.R: Course Project 1, Part 1/4
+# -- plot1.R: "Exploratory Data Analysis" Course Project 1, Part 1/4 --
 
 # read source data, but only rows, corresponding to 01.02.2007 and 02.02.2007
 csv <- read.table("household_power_consumption.txt", header=TRUE,sep=";",
